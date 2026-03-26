@@ -12,7 +12,6 @@ venv/
 
 # Outputs
 vrw_densities.png
-vrw_trajectories.png
 
 # OS
 .DS_Store

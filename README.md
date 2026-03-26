@@ -13,6 +13,10 @@ This repository contains code for the **synthetic von Mises random walk (VRW) ex
 
 The experiment demonstrates **probability kinematics (PK)** as a generalized Bayesian update of a directional prior on angles using soft evidence on distances.
 
+![VRW densities](vrw_trajectories.png)
+
+The figure shows the unmodified von Mises random walk in blue, and the PK-adjusted random walk in red.
+
 ---
 
 ## What the code does
