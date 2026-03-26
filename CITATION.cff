@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "AlphaFold's Bayesian Roots in Probability Kinematics"
+message: "If you use this code, please cite the associated paper."
+
+type: article
+
+authors:
+  - family-names: "Hamelryck"
+    given-names: "Thomas"
+  - family-names: "Mardia"
+    given-names: "Kanti V."
+
+year: 2026
+
+journal: "Proceedings of the 29th International Conference on Artificial Intelligence and Statistics (AISTATS)"
+
+abstract: "This repository contains code for the synthetic von Mises random walk experiment."
+
+keywords:
+  - probability kinematics
+  - Bayesian inference
+  - AlphaFold
+  - protein structure
+  - generative models
+
+license: MIT
