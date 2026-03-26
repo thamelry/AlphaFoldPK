@@ -45,13 +45,13 @@ pip install -r requirements.txt
 ## Run the experiment
 
 ```bash
-python run_vrw_experiment.py
+python run_vonmises_rw.py
 ```
 
 Optional: specify a random seed
 
 ```bash
-python run_vrw_experiment.py 42
+python run_vonmises_rw.py 42
 ```
 
 ---
